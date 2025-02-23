@@ -14,7 +14,8 @@ This project implements a **Next Word Prediction** system using **LSTM** and **G
 
 ## Installation & Setup  
 Clone the repository and install dependencies:
-bash```
+
+```bash
 git clone https://github.com/ferozk0333/Context-Aware-Next-Word-Prediction-Using-LSTM-and-GRU-Networks.git
 cd Context-Aware-Next-Word-Prediction-Using-LSTM-and-GRU-Networks
 pip install -r requirements.txt ```
