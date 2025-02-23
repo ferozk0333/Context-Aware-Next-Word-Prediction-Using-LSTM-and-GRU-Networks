@@ -18,6 +18,25 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/ferozk0333/Context-Aware-Next-Word-Prediction-Using-LSTM-and-GRU-Networks.git
 cd Context-Aware-Next-Word-Prediction-Using-LSTM-and-GRU-Networks
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+```
+
+Training the Model
+To train the model, run:
+```bash
+python train.py
+```
+
+Prediction Example
+```bash
+input_text = "To be or not to be"
+next_word = predict_next_word(model, tokenizer, input_text, max_sequence_length)
+print("Next word prediction:", next_word)
+
+```
 
 
+Results & Observations
+- LSTM achieves higher accuracy but takes longer to train.
+- GRU is faster but slightly less accurate for longer sequences.
+- Training for 100+ epochs improves prediction quality.
