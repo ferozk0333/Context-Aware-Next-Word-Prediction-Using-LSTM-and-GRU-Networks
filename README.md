@@ -1,0 +1,2 @@
+# Context-Aware-Next-Word-Prediction-Using-LSTM-and-GRU-Networks
+Leveraged deep learning techniques such as tokenization, sequence padding, and softmax-based word prediction to develop a Next Word Prediction model using LSTM and GRU networks, trained on Shakespeare’s Hamlet. Built with TensorFlow, this project evaluates and compares the effectiveness of LSTM and GRU architectures for sequence modeling in NLP.
