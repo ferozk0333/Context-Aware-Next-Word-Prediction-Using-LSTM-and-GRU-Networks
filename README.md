@@ -10,7 +10,8 @@ This project implements a **Next Word Prediction** system using **LSTM** and **G
 4. **Deployment**: Streamlit-based web application  
 
 ## Model Architecture  
-*(Insert Diagram Here - Model Architecture Visualization)*  
+![image](https://github.com/user-attachments/assets/c0197f17-9c4e-4d69-96c8-7d3f64424592)
+
 
 ## Installation & Setup  
 Clone the repository and install dependencies:
